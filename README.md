@@ -1,83 +1,20 @@
-<div align="center" width="50">
+# Devang Pant
 
-# Devang Pant  
+**Applied AI / Solutions Engineer** — I build and deploy production GenAI in regulated enterprise.
 
-<p><strong>Business Analyst @ Sapiens | Data Enthusiast | ML Explorer</strong><br>
-🔥 Delivering cross-industry impact in Insurance, SaaS & AgriTech<br>
-🚀 Driving €10M+ client delivery with analytics, forecasting & ML strategies
-  <hr/>
-<img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/dev-working_rounded.gif?raw=true" alt="CoDiNg RocKs" width="60%"/><br> 
-<br>
+Currently at **Sapiens International** (insurance systems) applying LLM-based automation to GDPR, billing, and finance workflows. Alongside that, I ship real products:
 
-# 💻 Tech Stack:
+| Product | What it does | Stack |
+|---|---|---|
+| [Crossbook](https://crossbook-ai.vercel.app) | AI product-discovery engine — signals what to build, what to kill | Next.js · Claude API · RAG · Supabase |
+| AdPulse AI | AI marketing command center across 300+ ad connectors | Next.js · Claude API · Windsor.ai MCP · Supabase |
+| KinematicAI | CV gait-asymmetry injury risk from football broadcast video | PyTorch · MMPose · YOLO11m-pose · BoT-SORT |
+| WardrobeAI | Multimodal fashion assistant | Gemini 2.5 Flash · Computer Vision · AWS EC2 |
 
-### 👨‍💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**Stack I reach for:** Python · TypeScript · FastAPI · Next.js · PostgreSQL · vector DBs · Docker · REST/API integration · AWS
 
-### 🧠 Analytics, BI & Cloud
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge&logo=alteryx&logoColor=white)
+**Cert:** AWS Certified Solutions Architect – Associate (SAA-C03)
 
-### 🎨 Tools & Collaboration
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
 
-
-<div align='left'>
-  
-```json
-{
-    "Analytics": {"Forecasting", "Churn Prediction", "Fraud Detection"},
-    "MachineLearning": {"Supervised", "Unsupervised", "Deep Learning"},
-    "Frameworks": {"TensorFlow", "OpenCV"},
-    "BI & Visualization": {"Power BI", "Excel"},
-    "Cloud": {"Azure", "AWS"},
-    "Programming": {"Python", "SQL"},
-    "SoftSkills": {"Stakeholder Management", "Agile", "Strategic Roadmapping"}
-}
-```
-</div>
-
--  <img alt="GIF" src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/Developer.gif?raw=true" width="25" /> &nbsp; Currently working on **Insurance Product Implementations at Sapiens** <img width="15%" align="right" alt="Github Image" src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/linux_rounded.gif?raw=true" /><br>
-- <img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Love exploring **Machine Learning & AI applications**. <br>
-- <img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Data Analytics, ML Models, BI Tools**. <br>
-- &nbsp;&nbsp;<img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: *Built a CNN that detects Malaria with 96% accuracy!*<br><br><br>
-
-<div align="center" >
-<a  href="https://github.com/Depant10">
-
-   <img width= "30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Depant10&theme=github_dark"/>
-   <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Depant10&theme=github_dark"/>
-   <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Depant10&theme=github_dark"/>
-
-</a>
-
-<details>
-  <summary>More stats</summary>
-  
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Depant10&theme=github_dark" >
-
-</details>
-
-<hr></hr>
-
-<img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/dino_rounded.gif?raw=true" width="75%"/><br>
-<img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
-  
-
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devang-pant-456b50170) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devangpant7@gmail.com) 
-
-</div>
+[linkedin.com/in/devangpant1](https://linkedin.com/in/devangpant1) · [devangpant7@gmail.com](mailto:devangpant7@gmail.com) · [@PantDevang](https://x.com/PantDevang)
